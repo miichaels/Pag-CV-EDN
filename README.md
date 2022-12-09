@@ -1,6 +1,17 @@
 # Pag-CV-EDN
 Trabalho final da Escola da nuvem - Criar uma pag web contendo os currículos do grupo e a implantação de um ou mais serviços na nuvem AWS
 
+Apresentação: https://www.canva.com/design/DAFT4VgNJeM/YylA6ittL56IW-oiKvGv3w/view?utm_content=DAFT4VgNJeM#1
+
+
+Conheça-nos: https://miichaels.github.io/Pag-CV-EDN/
+
+
+
+-------------------------------------------------------------------------
+
+
+
 
 
 <img width="796" alt="image" src="https://user-images.githubusercontent.com/88103166/206601820-398c2fa5-348f-4125-8bfa-47df50cc2a76.png">
