@@ -37,7 +37,7 @@ Link Pricing Calculator: https://calculator.aws/#/estimate?id=a11ad5dee2491f9e96
 
 <img width="593" alt="image" src="https://user-images.githubusercontent.com/88103166/206602116-411d7999-f279-45cb-90ae-31f3b12f0763.png">
 
-
+Conheça-nos: https://miichaels.github.io/Pag-CV-EDN/
 <img width="672" alt="image" src="https://user-images.githubusercontent.com/88103166/206602141-e5f0820a-5969-4860-a7bd-d283930e890c.png">
 
 
