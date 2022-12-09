@@ -16,6 +16,8 @@ Conheça-nos: https://miichaels.github.io/Pag-CV-EDN/
 
 <img width="796" alt="image" src="https://user-images.githubusercontent.com/88103166/206601820-398c2fa5-348f-4125-8bfa-47df50cc2a76.png">
 
+[AWS Pricing Calculator.pdf](https://github.com/miichaels/Pag-CV-EDN/files/10191161/AWS.Pricing.Calculator.pdf)
+
 Link Pricing Calculator: https://calculator.aws/#/estimate?id=a11ad5dee2491f9e96e1cba51dddd1a05a8b9afd
 <img width="725" alt="image" src="https://user-images.githubusercontent.com/88103166/206604077-c4cda6dd-349c-44d2-abb6-12fe62f763ea.png">
 
