@@ -1,5 +1,5 @@
 # Pag-CV-EDN
-Trabalho final da Escola da nuvem - Criar uma pag web contendo os currículos do grupo e a implantação de um ou mais serviços na nuvem AWS
+Trabalho final da Escola da nuvem - Criar uma pag web contendo os currículos do grupo, com a implantação em um ou mais serviços na nuvem AWS
 
 Apresentação: https://www.canva.com/design/DAFT4VgNJeM/YylA6ittL56IW-oiKvGv3w/view?utm_content=DAFT4VgNJeM#1
 
